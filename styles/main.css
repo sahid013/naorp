@@ -99,8 +99,8 @@
             padding: 3rem 3rem;
             display: grid;
             grid-template-columns: 1fr 1fr;
-            gap: 3rem;
-            align-items: center;
+            gap: 2rem;
+            align-items: start;
             background: #f5f0eb;
             border-radius: 20px;
             min-height: calc(100vh - 140px);
@@ -110,7 +110,7 @@
             text-align: left;
             color: #1a1a1a;
             animation: fadeInUp 0.8s ease-out;
-            padding: 2rem 0;
+            padding: 12px 0 2rem 0;
         }
 
         @keyframes fadeInUp {
@@ -142,7 +142,7 @@
             opacity: 1;
             color: #555;
             line-height: 1.7;
-            max-width: 520px;
+            max-width: 540px;
         }
 
         .hero-link {
@@ -158,13 +158,14 @@
 
         .hero-image {
             display: flex;
-            align-items: center;
-            justify-content: center;
+            align-items: flex-start;
+            justify-content: stretch;
+            padding: 15px 0 0 0;
         }
 
         .hero-image img {
             width: 100%;
-            max-width: 560px;
+            max-width: 100%;
             height: auto;
             border-radius: 16px;
             object-fit: cover;
@@ -226,6 +227,100 @@
         .btn:hover {
             transform: translateY(-2px);
             box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }
+
+/* ===== Doc Commons Inquiry Form (Hero) ===== */
+        .doc-commons-inquiry {
+            margin-top: 2.5rem;
+            padding: 1.75rem 1.75rem;
+            background: #ffffff;
+            border: 1px solid #e8e2da;
+            border-radius: 20px;
+            max-width: 560px;
+        }
+
+        .doc-commons-title {
+            font-size: 1.25rem;
+            font-weight: 500;
+            color: #1a1a1a;
+            margin: 0 0 0.5rem 0;
+            letter-spacing: -0.01em;
+        }
+
+        .doc-commons-subtitle {
+            font-size: 0.9rem;
+            color: #666666;
+            line-height: 1.55;
+            margin: 0 0 1.25rem 0;
+            font-weight: 300;
+        }
+
+        .doc-commons-form {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .doc-commons-row {
+            display: grid;
+            gap: 0.6rem;
+        }
+
+        .doc-commons-row-top {
+            grid-template-columns: 1fr 1fr;
+        }
+
+        .doc-commons-row-bottom {
+            grid-template-columns: 1fr;
+        }
+
+        .doc-commons-form input[type="text"],
+        .doc-commons-form input[type="email"] {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            border: 1.5px solid #e5e5e5;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            font-family: inherit;
+            color: #1a1a1a;
+            background: #ffffff;
+            transition: border-color 0.2s ease;
+            box-sizing: border-box;
+        }
+
+        .doc-commons-form input::placeholder {
+            color: #b5b0a9;
+        }
+
+        .doc-commons-form input:focus {
+            outline: none;
+            border-color: #412410;
+        }
+
+        .doc-commons-submit {
+            align-self: flex-start;
+            padding: 12px 22px;
+            font-size: 0.9rem;
+            margin-top: 0.25rem;
+        }
+
+        @media (max-width: 768px) {
+            .doc-commons-inquiry {
+                margin-top: 2rem;
+                padding: 1.5rem 1.25rem;
+                max-width: 100%;
+            }
+
+            .doc-commons-row {
+                grid-template-columns: 1fr;
+                gap: 0.6rem;
+            }
+
+            .doc-commons-submit {
+                align-self: stretch;
+                width: 100%;
+                justify-content: center;
+            }
         }
 
 /* ===== Container (used by all sections) ===== */

@@ -109,3 +109,32 @@
                 this.reset();
             });
         }
+
+// Doc Commons inquiry form submission handler
+        const docCommonsForm = document.getElementById('docCommonsForm');
+        if (docCommonsForm) {
+            docCommonsForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+
+                const formData = new FormData(this);
+                const name = formData.get('name');
+                const email = formData.get('email');
+                const specialty = formData.get('specialty');
+
+                if (!name || !email || !specialty) {
+                    alert('Please fill in all fields.');
+                    return;
+                }
+
+                const subject = 'Doc Commons Inquiry from NAORP';
+                const body = `Hello,\n\nI'm interested in learning more about Doc Commons.\n\nName: ${name}\nEmail: ${email}\nSpecialty / Years practiced: ${specialty}\n\nPlease tell me more about Doc Commons.\n\nThank you.`;
+
+                const mailtoLink = `mailto:robert@physemp.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+
+                window.location.href = mailtoLink;
+
+                alert(`Thank you, ${name}! Your default email client will open with your message pre-filled. Please send the email to complete your inquiry.`);
+
+                this.reset();
+            });
+        }
