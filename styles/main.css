@@ -1582,4 +1582,10 @@
                 padding-top: 20px !important;
                 padding-bottom: 20px !important;
             }
+
+            /* CTA section: 20px left/right inner padding around content */
+            .cta-container {
+                padding-left: 20px !important;
+                padding-right: 20px !important;
+            }
         }
