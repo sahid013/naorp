@@ -268,12 +268,22 @@
             }
 
             .hero {
+                padding-top: 92px;
                 padding-left: 1rem;
                 padding-right: 1rem;
             }
 
             .hero-inner {
                 padding: 1.5rem 1rem;
+                gap: 20px;
+            }
+
+            .hero-content {
+                order: 1;
+            }
+
+            .hero-image {
+                order: 2;
             }
 
             .hero h1 {
@@ -1493,5 +1503,83 @@
 
             .dedication-box p {
                 font-size: 0.95rem;
+            }
+        }
+
+/* ===== Global Mobile Overrides ===== */
+        @media (max-width: 768px) {
+            /* Reset letter-spacing on all headings for mobile readability */
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6,
+            .hero h1,
+            .section-title,
+            .benefits-title,
+            .about-title,
+            .cta-title,
+            .connect-title,
+            .our-story-title,
+            .contact-new-heading,
+            .founders-message .section-title {
+                letter-spacing: 0em !important;
+            }
+
+            /* Outer sections: exactly 20px left/right padding */
+            .section,
+            .hero,
+            .benefits-section,
+            .about-us,
+            .cta-section,
+            .connect-section,
+            .our-story-section,
+            .contact-section-new,
+            .founders-message,
+            .footer {
+                padding-left: 20px !important;
+                padding-right: 20px !important;
+            }
+
+            /* Inner containers: zero horizontal padding (outer section already provides 20px) */
+            .container,
+            .hero-inner,
+            .benefits-container,
+            .about-container,
+            .cta-container,
+            .connect-container,
+            .our-story-container,
+            .contact-new-layout,
+            .founders-message .container,
+            .footer .container {
+                padding-left: 0 !important;
+                padding-right: 0 !important;
+                margin-left: 0 !important;
+                margin-right: 0 !important;
+                max-width: 100% !important;
+                width: 100% !important;
+                box-sizing: border-box;
+            }
+
+            /* Cards inside sections: keep their internal padding but no extra horizontal spacing leaking out */
+            .hero-inner,
+            .benefits-container,
+            .about-container,
+            .cta-container,
+            .connect-container,
+            .our-story-container,
+            .footer .container {
+                box-sizing: border-box;
+            }
+
+            /* Hero, Connect Your Community, and Footer: 20px inner padding around card content */
+            .hero-inner,
+            .connect-container,
+            .footer .container {
+                padding-left: 20px !important;
+                padding-right: 20px !important;
+                padding-top: 20px !important;
+                padding-bottom: 20px !important;
             }
         }
