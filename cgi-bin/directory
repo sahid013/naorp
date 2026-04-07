@@ -1,0 +1,30 @@
+#!/usr/bin/perl
+
+use Digest::MD5 qw/md5_hex/;
+use CGI;
+use LWP::Simple;
+
+use constant _SHARED_SECRET	=> 'http://www.naorp.org'; 
+use constant _ACCOUNT_ID	=> 'naorp';
+use constant _GOURT_CGI		=> 'http://syndication.gourt.com/';
+
+my $str = build_query_string();
+if ($str =~ m/type\/xurl/)
+{
+  my $cgi = new CGI();
+  print $cgi->redirect(get(_GOURT_CGI.$str));
+}
+else{
+  print "Content-type: text/html\n\n";
+  print get(_GOURT_CGI.$str);
+}
+
+sub build_query_string {
+  (my $qq = $ENV{QUERY_STRING}) =~ s/\=|\&/\//g;
+  my $dir = $qq ? '/'.$qq : $ENV{PATH_INFO};
+  my $query_string = "?dir=".$dir."&account_id="._ACCOUNT_ID."&pid=".$$."&cgi=".$ENV{SCRIPT_NAME};
+  my $key = md5_hex(_SHARED_SECRET.md5_hex($query_string, _SHARED_SECRET));
+  $query_string .= "&authkey=".$key;
+  return $query_string;
+}
+

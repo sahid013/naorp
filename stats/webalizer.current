@@ -1,0 +1,773 @@
+# Webalizer V2.01-06 Incremental Data - 03/01/2013 02:58:50
+2013 3 1 2 58 50
+140 122 74 82 6 20 7636525 130 78 0
+74 61 61 1 1
+140 122 7636525 74 130 78
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+48 39 6461638 42
+31 29 373810 29
+61 54 801077 59
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+122
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/cgi-bin/directory/Facilities/By-Region.html
+0 1 10 11058 1 0
+/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Connective_Tissue/Fibromyalgia/Organizations/
+0 1 4 8699 1 0
+/
+0 5 1429173093 26634 2 0
+/Top/Health/Conditions_and_Diseases/K/
+0 1 1668441464 4562 1 0
+/donate.html
+0 2 1361745204 12244 1 1
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Gentamicin/
+0 2 1090240032 10584 2 0
+/Top/Health/Public_Health_and_Safety/Epidemiology/Infectious_Diseases/
+0 1 1360733856 8677 1 0
+/cgi-bin/directory/Informatics/Electronic-Health-Record-Architectures.html
+0 1 858926648 14133 0 0
+/cgi-bin/directory/Medical-Specialties/Endocrinology.html
+0 1 795631971 24758 0 0
+/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Chromosomal/
+0 1 120 5532 0 0
+/Top/Health/Pharmacy/Drugs_and_Medications/E/Ethacrynic_Acid/
+0 2 0 10316 2 0
+/Top/Health/Dentistry/Regional/
+0 1 995631187 4618 0 0
+/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Sydenham's_Chorea/
+0 1 0 6708 0 0
+/Top/Health/Conditions_and_Diseases/Endocrine_Disorders/Parathyroid/Hyperparathyroidism/
+0 1 0 0 1 0
+/Top/Health/Alternative/Practitioners/Wellness_Centers/On-Line_and_E-Mail_Consultations/
+0 1 1667319343 0 1 0
+/cgi-bin/directory/Facilities/Hospitals/North-America/Canada.html
+0 1 0 12509 1 0
+/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Meningitis/
+0 1 0 9912 0 0
+/cgi-bin/directory/Medical-Specialties/Radiology.html
+0 1 1702127982 16659 0 0
+/Top/Health/Conditions_and_Diseases/Digestive_Disorders/Esophagus/
+0 1 1088584192 8105 1 0
+/Top/Health/Pharmacy/Drugs_and_Medications/L/Levonorgestrel/Oral/
+0 2 1935762803 11730 2 0
+/mentor.html
+0 1 1129 6760 0 0
+/cgi-bin/directory/Medical-Specialties/Pain-Management/Pediatrics.html
+0 1 1593 12230 1 0
+/Top/Health/Animal/Alternative_Medicine/Livestock/
+0 1 0 6816 1 0
+/join.html
+0 2 1937207140 36008 0 0
+/Top/Health/Conditions_and_Diseases/Endocrine_Disorders/Pituitary/Hypopituitarism/
+0 1 0 7142 1 0
+/blog.html
+0 1 0 11906 0 0
+/Top/Health/Pharmacy/Drugs_and_Medications/S/Sulfasalazine/
+0 2 1953391949 9180 2 0
+/Top/Health/Child_Health/Pediatric_Rehabilitation/Inpatient_Services/
+0 1 0 5921 1 0
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Glatiramer/
+0 2 1768187213 9840 2 0
+/cgi-bin/directory/Facilities/Hospitals/North-America.html
+0 1 775435314 11238 0 0
+/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Connective_Tissue/Fibromyalgia/Clinical_Theory_and_Practice/
+0 1 1634027567 9125 1 1
+/Top/Health/Pharmacy/Drugs_and_Medications/H/Hepatitis_A_Inactivated_and_Hepatitis_B_Vaccine/
+0 2 1702127982 10126 2 0
+/u_of_i_back.pdf
+0 1 795176553 6081883 0 0
+/Top/Health/Alternative/Hypnotherapy/Practitioners/North_America/United_States/Pennsylvania/
+0 1 146084952 5678 1 0
+/cgi-bin/directory
+0 2 1769239393 39226 0 0
+/cgi-bin/directory/Surgery/Surgeons-and-Clinics.html
+0 1 1147103348 25690 1 0
+/Top/Health/Pharmacy/Drugs_and_Medications/T/Tegaserod/
+0 2 1087848448 9676 2 0
+/advisors.html
+0 2 2 10110 0 0
+/Top/Health/Medicine/Medical_Specialties/Allergist/
+0 1 1702127982 18053 0 1
+/Top/Health/Pharmacy/Drugs_and_Medications/O/Orphenadrine/
+0 2 1936876880 9158 1 0
+/Top/Health/Alternative/Chiropractic/Offices_and_Professionals/United_States/Iowa/
+0 1 0 0 1 0
+/residents_f.html
+0 2 1086658304 12982 1 0
+/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Peripheral_Nervous_System/Neuralgias/Support_Groups/
+0 1 0 6466 0 0
+/cgi-bin/directory/Imaging.html
+0 1 1086904320 31662 0 0
+/cgi-bin/directory/Facilities/Children/Romania.html
+0 1 1818391888 10144 1 0
+/images/g_buttons_12.gif
+1 1 1230991973 100 0 0
+/Top/Health/Pharmacy/Pharmacies/Stores/Europe/Ireland/
+0 2 1085396736 11294 2 0
+/cgi-bin/directory/Imaging/Magnetic-Resonance-Imaging.html
+0 16 1768187213 625696 4 0
+/cgi-bin/directory/Imaging/Ultrasonography.html
+0 1 0 25446 1 0
+/Top/Health/Fitness/Personal_Trainers/Directories/
+0 1 0 6685 0 0
+/Top/Health/Pharmacy/Drugs_and_Medications/S/Sertraline/
+0 2 1398762593 10378 2 0
+/Top/Health/Alternative/Non-Toxic_Living/
+0 1 40 17467 0 0
+/Top/Health/Pharmacy/Drugs_and_Medications/R/Ranitidine/
+0 2 1360752651 10380 2 0
+/Top/Health/Pharmacy/Drugs_and_Medications/U/Ursodiol/
+0 2 1952670066 9102 2 0
+/cgi-bin/directory/Research/Institutes,-Departments,-and-Laboratories/Biomedical-Research/Mayo-Clinic.html
+0 1 1853122886 15055 1 0
+/Top/Health/Nursing/Specialties/Nephrology/
+0 1 796091747 6039 0 0
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Flurandrenolide/
+0 2 1634038633 10330 0 0
+/Top/Health/Medicine/Medical_Specialties/Podiatry/Organizations/
+0 1 1647259450 10142 1 1
+/Top/Health/Medicine/Medical_Specialties/Psychiatry/
+0 1 775041585 11425 0 0
+/Top/Health/Conditions_and_Diseases/Neurological_Disorders/Cranial_Nerve_Diseases/
+0 1 40 10393 0 0
+/Top/Health/Animal/Conditions_and_Diseases/Infectious_Diseases/
+0 1 1473 4911 0 0
+/links.html
+0 1 1087909696 8520 0 0
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Granisetron/
+0 2 0 10268 2 0
+/cgi-bin/directory/Medical-Specialties/Pathology/Services/Autopsies.html
+0 1 2 12449 1 0
+/cgi-bin/directory/Surgery/Orthopedics/Surgeons-and-Clinics/United-States/Kansas.html
+0 1 12132 11088 0 0
+/about_us.html
+0 2 72 14292 1 0
+/Top/Health/Reproductive_Health/Birth_Control/
+0 1 121 17480 1 0
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Fosfomycin/
+0 2 1853122886 9838 2 0
+/cgi-bin/directory/Surgery/Trauma/Journals.html
+0 1 1634027567 10569 0 0
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Fosphenytoin/
+0 2 217 9848 2 0
+/cgi-bin/directory/Medical-Specialties/Internal-Medicine.html
+0 1 20 23502 1 0
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Folic_Acid/
+0 2 0 10760 2 0
+/Top/Health/Medicine/Medical_Specialties/Ophthalmology/
+0 1 32 13010 0 0
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Flupenthixol/
+0 2 40 10118 2 0
+/volunteer_j.html
+0 1 11 24115 1 0
+/Top/Health/Fitness/Pilates_Method/United_States/Vermont/
+0 1 1298097262 0 1 0
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Gemfibrozil/
+0 2 1920291631 9832 2 1
+/Top/Health/Pharmacy/Drugs_and_Medications/O/Octreotide/
+0 2 1769236852 10956 2 0
+/cgi-bin/directory/Facilities/Hospitals/South-America.html
+0 1 0 10842 0 0
+/Top/Health/Public_Health_and_Safety/First_Aid/Allergic_Reactions/
+0 1 24 8351 1 0
+/Top/Health/Alternative/Practitioners/Wellness_Centers/North_America/United_States/Utah/
+0 1 3 5538 0 0
+/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Back_and_Spine/
+0 1 1952984673 13147 1 1
+# End Of Table - urls
+# -sites- (monthly)
+74-202-28-8.static.twtelecom.net
+0 1 1 17480 1 1362103656
+/Top/Health/Reproductive_Health/Birth_Control/
+crawl-66-249-73-73.googlebot.com
+0 1 1 10144 1 1362103384
+/cgi-bin/directory/Facilities/Children/Romania.html
+178-137-92-96-lvv.broadband.kyivstar.net
+0 3 3 117318 1 1362100470
+/cgi-bin/directory/Imaging/Magnetic-Resonance-Imaging.html
+119.63.196.94
+0 2 2 12613 2 1362103510
+/residents_f.html
+spider-100-43-83-137.yandex.com
+0 6 4 6100155 1 1362105573
+/
+baiduspider-180-76-5-150.crawl.baidu.com
+0 1 1 5478 1 1362102995
+/Top/Health/Pharmacy/Drugs_and_Medications/O/Octreotide/
+baiduspider-180-76-5-169.crawl.baidu.com
+0 1 1 4590 1 1362104910
+/Top/Health/Pharmacy/Drugs_and_Medications/S/Sulfasalazine/
+226.9.207.91.unknown.steephost.net
+0 9 9 351954 1 1362105662
+/cgi-bin/directory/Imaging/Magnetic-Resonance-Imaging.html
+baiduspider-180-76-5-176.crawl.baidu.com
+0 1 1 25446 1 1362105121
+/cgi-bin/directory/Imaging/Ultrasonography.html
+baiduspider-180-76-5-8.crawl.baidu.com
+0 2 2 10224 1 1362097853
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Flurandrenolide/
+baiduspider-180-76-5-194.crawl.baidu.com
+0 1 1 4920 1 1362101116
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Glatiramer/
+baiduspider-180-76-5-94.crawl.baidu.com
+0 1 0 0 1 1362097640
+/Top/Health/Conditions_and_Diseases/Endocrine_Disorders/Parathyroid/Hyperparathyroidism/
+180.76.6.211
+0 1 1 4838 1 1362105611
+/Top/Health/Pharmacy/Drugs_and_Medications/T/Tegaserod/
+180.76.6.212
+0 2 2 10323 1 1362097852
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Flurandrenolide/
+static.5-9-7-208.clients.your-server.de
+0 11 9 95646 1 1362099206
+/residents_f.html
+180.76.6.224
+0 1 1 4551 1 1362106420
+/Top/Health/Pharmacy/Drugs_and_Medications/U/Ursodiol/
+crawl-66-249-73-37.googlebot.com
+0 1 1 7146 1 1362096260
+/about_us.html
+msnbot-65-55-52-117.search.msn.com
+0 1 1 11058 1 1362099178
+/cgi-bin/directory/Facilities/By-Region.html
+74.116.71.22
+0 4 2 29586 1 1362098839
+/advisors.html
+msnbot-157-55-35-37.search.msn.com
+0 2 1 23710 1 1362097552
+/cgi-bin/directory/Medical-Specialties/Internal-Medicine.html
+69.64.155.253
+0 1 1 0 1 1362105643
+/
+180.76.6.16
+0 1 1 5059 1 1362097385
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Flupenthixol/
+180.76.6.17
+0 1 1 5190 1 1362104048
+/Top/Health/Pharmacy/Drugs_and_Medications/R/Ranitidine/
+baiduspider-180-76-5-113.crawl.baidu.com
+0 1 1 5189 1 1362104697
+/Top/Health/Pharmacy/Drugs_and_Medications/S/Sertraline/
+180.76.6.20
+0 1 1 12509 1 1362105399
+/cgi-bin/directory/Facilities/Hospitals/North-America/Canada.html
+180.76.6.29
+0 1 1 5921 1 1362096165
+/Top/Health/Child_Health/Pediatric_Rehabilitation/Inpatient_Services/
+baiduspider-180-76-5-13.crawl.baidu.com
+0 1 1 5292 1 1362100207
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Gentamicin/
+baiduspider-180-76-5-17.crawl.baidu.com
+0 1 1 4924 1 1362099603
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Fosphenytoin/
+baiduspider-180-76-5-20.crawl.baidu.com
+0 1 1 5134 1 1362101328
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Granisetron/
+baiduspider-180-76-5-139.crawl.baidu.com
+0 2 2 10105 2 1362104696
+/Top/Health/Pharmacy/Drugs_and_Medications/S/Sertraline/
+baiduspider-180-76-5-142.crawl.baidu.com
+0 1 1 12230 1 1362103419
+/cgi-bin/directory/Medical-Specialties/Pain-Management/Pediatrics.html
+baiduspider-180-76-5-146.crawl.baidu.com
+0 1 1 4590 1 1362104911
+/Top/Health/Pharmacy/Drugs_and_Medications/S/Sulfasalazine/
+186.4.207.91.unknown.steephost.net
+0 3 3 117318 1 1362101152
+/cgi-bin/directory/Imaging/Magnetic-Resonance-Imaging.html
+baiduspider-180-76-5-57.crawl.baidu.com
+0 1 1 4924 1 1362099603
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Fosphenytoin/
+baiduspider-180-76-5-164.crawl.baidu.com
+0 1 1 5158 1 1362097174
+/Top/Health/Pharmacy/Drugs_and_Medications/E/Ethacrynic_Acid/
+baiduspider-180-76-5-60.crawl.baidu.com
+0 1 1 5865 1 1362102359
+/Top/Health/Pharmacy/Drugs_and_Medications/L/Levonorgestrel/Oral/
+baiduspider-180-76-5-64.crawl.baidu.com
+0 1 1 5380 1 1362098063
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Folic_Acid/
+baiduspider-180-76-5-175.crawl.baidu.com
+0 1 1 12449 1 1362103836
+/cgi-bin/directory/Medical-Specialties/Pathology/Services/Autopsies.html
+baiduspider-180-76-5-179.crawl.baidu.com
+0 1 1 5190 1 1362104048
+/Top/Health/Pharmacy/Drugs_and_Medications/R/Ranitidine/
+208.115.113.84
+0 11 10 81092 1 1362105254
+/cgi-bin/directory/Surgery/Orthopedics/Surgeons-and-Clinics/United-States/Kansas.html
+proxy1.cyberia.net.sa
+0 2 2 57110 1 1362106451
+/join.html
+crawl-66-249-73-45.googlebot.com
+0 1 1 8351 1 1362106730
+/Top/Health/Public_Health_and_Safety/First_Aid/Allergic_Reactions/
+baiduspider-180-76-5-182.crawl.baidu.com
+0 1 1 15055 1 1362100435
+/cgi-bin/directory/Research/Institutes,-Departments,-and-Laboratories/Biomedical-Research/Mayo-Clinic.html
+baiduspider-180-76-5-197.crawl.baidu.com
+0 1 1 4919 1 1362098575
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Fosfomycin/
+crawl-66-249-73-67.googlebot.com
+0 2 2 17824 2 1362103056
+/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Connective_Tissue/Fibromyalgia/Organizations/
+baiduspider-180-76-5-97.crawl.baidu.com
+0 1 0 208 0 0
+-
+crawl-66-249-73-71.googlebot.com
+0 1 1 4562 1 1362100099
+/Top/Health/Conditions_and_Diseases/K/
+ns1.linknv.ru
+0 1 0 211 1 1362106460
+-
+baiduspider-180-76-5-101.crawl.baidu.com
+0 1 1 5063 1 1362101539
+/Top/Health/Pharmacy/Drugs_and_Medications/H/Hepatitis_A_Inactivated_and_Hepatitis_B_Vaccine/
+baiduspider-180-76-5-16.crawl.baidu.com
+0 1 0 0 1 1362102135
+/Top/Health/Alternative/Chiropractic/Offices_and_Professionals/United_States/Iowa/
+crawl-66-249-73-53.googlebot.com
+0 2 2 21824 2 1362105362
+/Top/Health/Public_Health_and_Safety/Epidemiology/Infectious_Diseases/
+baiduspider-180-76-5-141.crawl.baidu.com
+0 2 2 10444 1 1362103209
+/Top/Health/Pharmacy/Drugs_and_Medications/O/Orphenadrine/
+baiduspider-180-76-5-149.crawl.baidu.com
+0 1 0 0 1 1362096963
+/Top/Health/Fitness/Pilates_Method/United_States/Vermont/
+baiduspider-180-76-5-163.crawl.baidu.com
+0 1 1 5134 1 1362101327
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Granisetron/
+baiduspider-180-76-5-178.crawl.baidu.com
+0 1 0 0 1 1362099390
+/Top/Health/Alternative/Practitioners/Wellness_Centers/On-Line_and_E-Mail_Consultations/
+spider-199-21-99-67.yandex.com
+0 1 0 198 1 1362105563
+-
+74.86.10.198-static.reverse.softlayer.com
+0 1 0 209 0 0
+-
+baiduspider-180-76-5-100.crawl.baidu.com
+0 1 1 4551 1 1362106420
+/Top/Health/Pharmacy/Drugs_and_Medications/U/Ursodiol/
+static.cmcti.vn
+0 6 5 85543 1 1362106482
+/links.html
+baiduspider-180-76-5-26.crawl.baidu.com
+0 1 1 4919 1 1362098575
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Fosfomycin/
+baiduspider-180-76-5-137.crawl.baidu.com
+0 1 1 5478 1 1362102996
+/Top/Health/Pharmacy/Drugs_and_Medications/O/Octreotide/
+baiduspider-180-76-5-151.crawl.baidu.com
+0 1 1 4579 1 1362103208
+/Top/Health/Pharmacy/Drugs_and_Medications/O/Orphenadrine/
+baiduspider-180-76-5-166.crawl.baidu.com
+0 1 1 25690 1 1362098800
+/cgi-bin/directory/Surgery/Surgeons-and-Clinics.html
+173.199.114.139.ahrefs.com
+0 7 7 77430 3 1362105966
+/Top/Health/Medicine/Medical_Specialties/Ophthalmology/
+baiduspider-180-76-5-62.crawl.baidu.com
+0 1 1 5647 1 1362106631
+/Top/Health/Pharmacy/Pharmacies/Stores/Europe/Ireland/
+baiduspider-180-76-5-173.crawl.baidu.com
+0 1 1 5647 1 1362106632
+/Top/Health/Pharmacy/Pharmacies/Stores/Europe/Ireland/
+baiduspider-180-76-5-177.crawl.baidu.com
+0 1 1 4838 1 1362105612
+/Top/Health/Pharmacy/Drugs_and_Medications/T/Tegaserod/
+208-115-111-68-reverse.wowrack.com
+0 7 7 74821 1 1362099015
+/cgi-bin/directory/Surgery/Trauma/Journals.html
+baiduspider-180-76-5-184.crawl.baidu.com
+0 1 1 5380 1 1362098063
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Folic_Acid/
+baiduspider-180-76-5-188.crawl.baidu.com
+0 1 1 5292 1 1362100206
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Gentamicin/
+baiduspider-180-76-5-195.crawl.baidu.com
+0 1 1 5063 1 1362101539
+/Top/Health/Pharmacy/Drugs_and_Medications/H/Hepatitis_A_Inactivated_and_Hepatitis_B_Vaccine/
+baiduspider-180-76-5-91.crawl.baidu.com
+0 1 1 4916 1 1362099814
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Gemfibrozil/
+baiduspider-180-76-5-99.crawl.baidu.com
+0 1 1 4920 1 1362101115
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Glatiramer/
+rate-limited-proxy-209-85-238-107.google.com
+0 1 0 0 1 1362105848
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+74-202-28-8.static.twtelecom.net
+0 1 1 17480 1 1362103656
+/Top/Health/Reproductive_Health/Birth_Control/
+crawl-66-249-73-73.googlebot.com
+0 1 1 10144 1 1362103384
+/cgi-bin/directory/Facilities/Children/Romania.html
+178-137-92-96-lvv.broadband.kyivstar.net
+0 3 3 117318 1 1362100470
+/cgi-bin/directory/Imaging/Magnetic-Resonance-Imaging.html
+119.63.196.94
+0 2 2 12613 2 1362103510
+/residents_f.html
+spider-100-43-83-137.yandex.com
+0 6 4 6100155 1 1362105573
+/
+baiduspider-180-76-5-150.crawl.baidu.com
+0 1 1 5478 1 1362102995
+/Top/Health/Pharmacy/Drugs_and_Medications/O/Octreotide/
+baiduspider-180-76-5-169.crawl.baidu.com
+0 1 1 4590 1 1362104910
+/Top/Health/Pharmacy/Drugs_and_Medications/S/Sulfasalazine/
+226.9.207.91.unknown.steephost.net
+0 9 9 351954 1 1362105662
+/cgi-bin/directory/Imaging/Magnetic-Resonance-Imaging.html
+baiduspider-180-76-5-176.crawl.baidu.com
+0 1 1 25446 1 1362105121
+/cgi-bin/directory/Imaging/Ultrasonography.html
+baiduspider-180-76-5-8.crawl.baidu.com
+0 2 2 10224 1 1362097853
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Flurandrenolide/
+baiduspider-180-76-5-194.crawl.baidu.com
+0 1 1 4920 1 1362101116
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Glatiramer/
+baiduspider-180-76-5-94.crawl.baidu.com
+0 1 0 0 1 1362097640
+/Top/Health/Conditions_and_Diseases/Endocrine_Disorders/Parathyroid/Hyperparathyroidism/
+180.76.6.211
+0 1 1 4838 1 1362105611
+/Top/Health/Pharmacy/Drugs_and_Medications/T/Tegaserod/
+180.76.6.212
+0 2 2 10323 1 1362097852
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Flurandrenolide/
+static.5-9-7-208.clients.your-server.de
+0 11 9 95646 1 1362099206
+/residents_f.html
+180.76.6.224
+0 1 1 4551 1 1362106420
+/Top/Health/Pharmacy/Drugs_and_Medications/U/Ursodiol/
+crawl-66-249-73-37.googlebot.com
+0 1 1 7146 1 1362096260
+/about_us.html
+msnbot-65-55-52-117.search.msn.com
+0 1 1 11058 1 1362099178
+/cgi-bin/directory/Facilities/By-Region.html
+74.116.71.22
+0 4 2 29586 1 1362098839
+/advisors.html
+msnbot-157-55-35-37.search.msn.com
+0 2 1 23710 1 1362097552
+/cgi-bin/directory/Medical-Specialties/Internal-Medicine.html
+69.64.155.253
+0 1 1 0 1 1362105643
+/
+180.76.6.16
+0 1 1 5059 1 1362097385
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Flupenthixol/
+180.76.6.17
+0 1 1 5190 1 1362104048
+/Top/Health/Pharmacy/Drugs_and_Medications/R/Ranitidine/
+baiduspider-180-76-5-113.crawl.baidu.com
+0 1 1 5189 1 1362104697
+/Top/Health/Pharmacy/Drugs_and_Medications/S/Sertraline/
+180.76.6.20
+0 1 1 12509 1 1362105399
+/cgi-bin/directory/Facilities/Hospitals/North-America/Canada.html
+180.76.6.29
+0 1 1 5921 1 1362096165
+/Top/Health/Child_Health/Pediatric_Rehabilitation/Inpatient_Services/
+baiduspider-180-76-5-13.crawl.baidu.com
+0 1 1 5292 1 1362100207
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Gentamicin/
+baiduspider-180-76-5-17.crawl.baidu.com
+0 1 1 4924 1 1362099603
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Fosphenytoin/
+baiduspider-180-76-5-20.crawl.baidu.com
+0 1 1 5134 1 1362101328
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Granisetron/
+baiduspider-180-76-5-139.crawl.baidu.com
+0 2 2 10105 2 1362104696
+/Top/Health/Pharmacy/Drugs_and_Medications/S/Sertraline/
+baiduspider-180-76-5-142.crawl.baidu.com
+0 1 1 12230 1 1362103419
+/cgi-bin/directory/Medical-Specialties/Pain-Management/Pediatrics.html
+baiduspider-180-76-5-146.crawl.baidu.com
+0 1 1 4590 1 1362104911
+/Top/Health/Pharmacy/Drugs_and_Medications/S/Sulfasalazine/
+186.4.207.91.unknown.steephost.net
+0 3 3 117318 1 1362101152
+/cgi-bin/directory/Imaging/Magnetic-Resonance-Imaging.html
+baiduspider-180-76-5-57.crawl.baidu.com
+0 1 1 4924 1 1362099603
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Fosphenytoin/
+baiduspider-180-76-5-164.crawl.baidu.com
+0 1 1 5158 1 1362097174
+/Top/Health/Pharmacy/Drugs_and_Medications/E/Ethacrynic_Acid/
+baiduspider-180-76-5-60.crawl.baidu.com
+0 1 1 5865 1 1362102359
+/Top/Health/Pharmacy/Drugs_and_Medications/L/Levonorgestrel/Oral/
+baiduspider-180-76-5-64.crawl.baidu.com
+0 1 1 5380 1 1362098063
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Folic_Acid/
+baiduspider-180-76-5-175.crawl.baidu.com
+0 1 1 12449 1 1362103836
+/cgi-bin/directory/Medical-Specialties/Pathology/Services/Autopsies.html
+baiduspider-180-76-5-179.crawl.baidu.com
+0 1 1 5190 1 1362104048
+/Top/Health/Pharmacy/Drugs_and_Medications/R/Ranitidine/
+208.115.113.84
+0 11 10 81092 1 1362105254
+/cgi-bin/directory/Surgery/Orthopedics/Surgeons-and-Clinics/United-States/Kansas.html
+proxy1.cyberia.net.sa
+0 2 2 57110 1 1362106451
+/join.html
+crawl-66-249-73-45.googlebot.com
+0 1 1 8351 1 1362106730
+/Top/Health/Public_Health_and_Safety/First_Aid/Allergic_Reactions/
+baiduspider-180-76-5-182.crawl.baidu.com
+0 1 1 15055 1 1362100435
+/cgi-bin/directory/Research/Institutes,-Departments,-and-Laboratories/Biomedical-Research/Mayo-Clinic.html
+baiduspider-180-76-5-197.crawl.baidu.com
+0 1 1 4919 1 1362098575
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Fosfomycin/
+crawl-66-249-73-67.googlebot.com
+0 2 2 17824 2 1362103056
+/Top/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Connective_Tissue/Fibromyalgia/Organizations/
+baiduspider-180-76-5-97.crawl.baidu.com
+0 1 0 208 0 0
+-
+crawl-66-249-73-71.googlebot.com
+0 1 1 4562 1 1362100099
+/Top/Health/Conditions_and_Diseases/K/
+ns1.linknv.ru
+0 1 0 211 1 1362106460
+-
+baiduspider-180-76-5-101.crawl.baidu.com
+0 1 1 5063 1 1362101539
+/Top/Health/Pharmacy/Drugs_and_Medications/H/Hepatitis_A_Inactivated_and_Hepatitis_B_Vaccine/
+baiduspider-180-76-5-16.crawl.baidu.com
+0 1 0 0 1 1362102135
+/Top/Health/Alternative/Chiropractic/Offices_and_Professionals/United_States/Iowa/
+crawl-66-249-73-53.googlebot.com
+0 2 2 21824 2 1362105362
+/Top/Health/Public_Health_and_Safety/Epidemiology/Infectious_Diseases/
+baiduspider-180-76-5-141.crawl.baidu.com
+0 2 2 10444 1 1362103209
+/Top/Health/Pharmacy/Drugs_and_Medications/O/Orphenadrine/
+baiduspider-180-76-5-149.crawl.baidu.com
+0 1 0 0 1 1362096963
+/Top/Health/Fitness/Pilates_Method/United_States/Vermont/
+baiduspider-180-76-5-163.crawl.baidu.com
+0 1 1 5134 1 1362101327
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Granisetron/
+baiduspider-180-76-5-178.crawl.baidu.com
+0 1 0 0 1 1362099390
+/Top/Health/Alternative/Practitioners/Wellness_Centers/On-Line_and_E-Mail_Consultations/
+spider-199-21-99-67.yandex.com
+0 1 0 198 1 1362105563
+-
+74.86.10.198-static.reverse.softlayer.com
+0 1 0 209 0 0
+-
+baiduspider-180-76-5-100.crawl.baidu.com
+0 1 1 4551 1 1362106420
+/Top/Health/Pharmacy/Drugs_and_Medications/U/Ursodiol/
+static.cmcti.vn
+0 6 5 85543 1 1362106482
+/links.html
+baiduspider-180-76-5-26.crawl.baidu.com
+0 1 1 4919 1 1362098575
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Fosfomycin/
+baiduspider-180-76-5-137.crawl.baidu.com
+0 1 1 5478 1 1362102996
+/Top/Health/Pharmacy/Drugs_and_Medications/O/Octreotide/
+baiduspider-180-76-5-151.crawl.baidu.com
+0 1 1 4579 1 1362103208
+/Top/Health/Pharmacy/Drugs_and_Medications/O/Orphenadrine/
+baiduspider-180-76-5-166.crawl.baidu.com
+0 1 1 25690 1 1362098800
+/cgi-bin/directory/Surgery/Surgeons-and-Clinics.html
+173.199.114.139.ahrefs.com
+0 7 7 77430 3 1362105966
+/Top/Health/Medicine/Medical_Specialties/Ophthalmology/
+baiduspider-180-76-5-62.crawl.baidu.com
+0 1 1 5647 1 1362106631
+/Top/Health/Pharmacy/Pharmacies/Stores/Europe/Ireland/
+baiduspider-180-76-5-173.crawl.baidu.com
+0 1 1 5647 1 1362106632
+/Top/Health/Pharmacy/Pharmacies/Stores/Europe/Ireland/
+baiduspider-180-76-5-177.crawl.baidu.com
+0 1 1 4838 1 1362105612
+/Top/Health/Pharmacy/Drugs_and_Medications/T/Tegaserod/
+208-115-111-68-reverse.wowrack.com
+0 7 7 74821 1 1362099015
+/cgi-bin/directory/Surgery/Trauma/Journals.html
+baiduspider-180-76-5-184.crawl.baidu.com
+0 1 1 5380 1 1362098063
+/Top/Health/Pharmacy/Drugs_and_Medications/F/Folic_Acid/
+baiduspider-180-76-5-188.crawl.baidu.com
+0 1 1 5292 1 1362100206
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Gentamicin/
+baiduspider-180-76-5-195.crawl.baidu.com
+0 1 1 5063 1 1362101539
+/Top/Health/Pharmacy/Drugs_and_Medications/H/Hepatitis_A_Inactivated_and_Hepatitis_B_Vaccine/
+baiduspider-180-76-5-91.crawl.baidu.com
+0 1 1 4916 1 1362099814
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Gemfibrozil/
+baiduspider-180-76-5-99.crawl.baidu.com
+0 1 1 4920 1 1362101115
+/Top/Health/Pharmacy/Drugs_and_Medications/G/Glatiramer/
+rate-limited-proxy-209-85-238-107.google.com
+0 1 0 0 1 1362105848
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 125
+http://www.sexhdtube.net/
+0 3
+http://mug-na-chas-moscow.ru/
+0 3
+http://google-play-android.com/
+0 3
+http://callvip.ru/
+0 3
+http://play-gta-android.ru/
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox
+0 1
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobil
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Maxthon; .
+0 3
+Mozilla/4.0 (compatible)
+0 1
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com
+0 1
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.c
+0 53
+Mozilla/5.0 (compatible; YandexBot/3.0; MirrorDetector; +http
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1)
+0 3
+InboundScore/Nutch-1.4 (http://InboundScore.com/)
+0 4
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bo
+0 3
+Opera/9.0 (Windows NT 5.1; U; en)
+0 9
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.co
+0 7
+Mozilla/5.0+(compatible;+PiplBot;++http://www.pipl.com/bot/)
+0 1
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+0 18
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html;
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 9
+Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.9.2.6) G
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bi
+0 3
+Mozilla/5.0 (compatible; MJ12bot/v1.4.3; http://www.majestic1
+0 11
+Mozilla/5.0 (compatible; AhrefsBot/4.0; +http://ahrefs.com/ro
+0 7
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
